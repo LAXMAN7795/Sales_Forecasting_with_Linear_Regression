@@ -51,8 +51,7 @@ The results include **graphical and tabular comparisons** of actual vs. predicte
 ## 📊 Visual Outputs
 
 ### 📈 Graph: Actual vs Predicted Sales Revenue Over Time  
-![Sales Forecast Graph](output/actual_vs_predicted_sales.png)
-
+![sales Forecast Graph](https://github.com/LAXMAN7795/Sales_Forecasting_with_Linear_Regression/blob/982f1b4864eaa7affb5fcb5bf97c33c7bc7d4069/Output/actual_vs_predicted_sales.png)
 ### 📋 Table: Top 10 Actual vs Predicted Values  
 ![Sales Forecast Table](output/actual_vs_predicted_table.png)
 
